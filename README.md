@@ -61,7 +61,20 @@ The `visualization.py` module provides several functions to visualize the model'
 
 To see the project in action, open the `analysis_notebook.ipynb` notebook and follow the steps outlined to train and evaluate the model.
 
-## 3. License
+## 3. Contributing
+
+Feel free to submit issues or pull requests to enhance the project.
+
+## 4. License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 5. Contact
+
+Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or opportunities to collaborate. Let's connect and explore new possibilities together!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yosri%20Ben%20Halima-blue)](https://www.linkedin.com/in/yosri-ben-halima-3553a9221/)
+[![Twitter](https://img.shields.io/badge/Facebook-@Yosry%20Ben%20Hlima-navy)](https://www.facebook.com/NottherealYxsry)
+[![Instagram](https://img.shields.io/badge/Instagram-@yosrybh-orange)](https://www.instagram.com/yosrybh/)
+[![Email](https://img.shields.io/badge/Email-yosri.benhalima@ept.ucar.tn-white)](yosri.benhalima@ept.ucar.tn)
 
