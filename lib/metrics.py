@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.metrics import confusion_matrix, f1_score, accuracy_score
 
-def mean_percentage_error(predictions_df):
+def percentage_error(predictions_df):
     """
     Calculates the Mean Percentage Error (MPE) for the predictions.
 
