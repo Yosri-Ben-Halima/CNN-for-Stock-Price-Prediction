@@ -46,7 +46,7 @@ def plot_predictions(date, y_test, predictions, fig, row=1, col=1):
     fig.update_yaxes(title_text='Price', row=row, col=col)
 
 
-def plot_mean_percentage_error(date, mpe, fig, row=3, col=1):
+def plot_percentage_error(date, mpe, fig, row=3, col=1):
     """
     Plots the mean percentage error (MPE) between actual and predicted values on a specified subplot of a figure.
 
